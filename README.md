@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="225" src="https://humanativaspa.it/wp-content/uploads/2021/05/HN_machine_learning_ist.jpg" height="75px"/></a>
 
 # 💫 About Me:
-🔭 I’m currently working on :- Machine Learning and Deep Learning Projects<br>🌱 I’m currently learning :- Deep Learning<br>🤔 I’m looking for help with :- Natural Language Processing (NLP)<br>💬 Ask me about:- Anything that I have mentioned in my CV<br>⚡ Fun fact: Mathematics is not a Language, it's an Adventure!!<br>📫 How to reach me: sanketbadadal1996@gmail.com / 8600465696.<br>
+🔭 I’m currently working on :- Machine Learning and Deep Learning Projects<br>🌱 I’m currently learning :- Deep Learning<br>🤔 I’m looking for help with :- Natural Language Processing (NLP)<br>💬 Ask me about:- Anything that I have mentioned in my CV<br>⚡ Fun fact: Mathematics is not a Language, it's an Adventure!!<br>📫 How to reach me: sanketb955@gmail.com / 8600465696.<br>
 
 
 ## 🌐 Socials:
